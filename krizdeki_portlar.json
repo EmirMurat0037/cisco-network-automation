@@ -1,0 +1,10 @@
+{
+    "GigabitEthernet0/1": {
+        "hiz": "1Gbps",
+        "trafik_yogunlugu": 85
+    },
+    "GigabitEthernet0/3": {
+        "hiz": "1Gbps",
+        "trafik_yogunlugu": 99
+    }
+}

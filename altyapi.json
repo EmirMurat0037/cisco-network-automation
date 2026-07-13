@@ -1,0 +1,54 @@
+{
+    "sirket_adi": "Sariyer Global Holding",
+    "guncelleme_zamani": "2026-07-09 12:50:00",
+    "topoloji": {
+        "Sariyer_Kampus": {
+            "koordinat": "41.1686, 29.0461",
+            "cihazlar": [
+                {
+                    "isim": "SRY-Core-Switch-01",
+                    "model": "Cisco Catalyst 9500",
+                    "rol": "Core",
+                    "portlar": {
+                        "HundredGigE1/0/1": {"status": "UP", "vlan": 10, "error_count": 0},
+                        "HundredGigE1/0/2": {"status": "DOWN", "vlan": 99, "error_count": 142},
+                        "TenGigE1/0/3": {"status": "DOWN", "vlan": 200, "error_count": 0}
+                    }
+                },
+                {
+                    "isim": "SRY-Access-Switch-02",
+                    "model": "Cisco Catalyst 9300",
+                    "rol": "Access",
+                    "portlar": {
+                        "GigabitEthernet1/0/1": {"status": "DOWN", "vlan": 20, "error_count": 5}
+                    }
+                }
+            ]
+        },
+        "Catalca_Depo": {
+            "koordinat": "41.1432, 28.4612",
+            "cihazlar": [
+                {
+                    "isim": "CTL-Dist-Router-01",
+                    "model": "Cisco ISR 4451",
+                    "rol": "Distribution",
+                    "portlar": {
+                        "GigabitEthernet0/0/0": {"status": "UP", "vlan": 1, "error_count": 0},
+                        "GigabitEthernet0/0/1": {"status": "DOWN", "vlan": 50, "error_count": 999}
+                    }
+                }
+            ]
+        },
+        "Ankara_Ofis": {
+            "koordinat": "39.9334, 32.8597",
+            "cihazlar": [
+                {
+                    "isim": "ANK-Edge-Firewall",
+                    "model": "Cisco Firepower 2130",
+                    "rol": "Core"
+                    
+                }
+            ]
+        }
+    }
+}

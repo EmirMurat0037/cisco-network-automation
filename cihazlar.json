@@ -1,0 +1,17 @@
+[
+    {"cihaz_adi": "Sariyer-Omurga-Switch", "ip_adresi": "127.0.0.1", "rol": "Switch"},
+    {"cihaz_adi": "Sariyer-Kenar-Switch-01", "ip_adresi": "192.168.1.2", "rol": "Switch"},
+    {"cihaz_adi": "Sariyer-Kenar-Switch-02", "ip_adresi": "192.168.1.3", "rol": "Switch"},
+    {"cihaz_adi": "Merkez-Ana-Router", "ip_adresi": "10.0.0.1", "rol": "Router"},
+    {"cihaz_adi": "Ankara-Bolge-Router", "ip_adresi": "10.0.0.2", "rol": "Router"},
+    {"cihaz_adi": "Izmir-Bolge-Router", "ip_adresi": "10.0.0.3", "rol": "Router"},
+    {"cihaz_adi": "Sariyer-Guvenlik-Duvari", "ip_adresi": "172.16.1.1", "rol": "Firewall"},
+    {"cihaz_adi": "Sariyer-Misafir-Agi-Switch", "ip_adresi": "172.16.1.2", "rol": "Switch"},
+    {"cihaz_adi": "DataCenter-Kabin-A-Switch", "ip_adresi": "10.10.10.1", "rol": "Switch"},
+    {"cihaz_adi": "DataCenter-Kabin-B-Switch", "ip_adresi": "10.10.10.2", "rol": "Switch"},
+    {"cihaz_adi": "Bursa-Depo-Switch", "ip_adresi": "192.168.20.5", "rol": "Switch"},
+    {"cihaz_adi": "Antalya-Ofis-Router", "ip_adresi": "192.168.30.1", "rol": "Router"},
+    {"cihaz_adi": "Yedek-Yönlendirici", "ip_adresi": "127.0.0.1", "rol": "Router"},
+    {"cihaz_adi": "Sariyer-Yonetim-Switch", "ip_adresi": "192.168.1.254", "rol": "Switch"},
+    {"cihaz_adi": "Sariyer-Yedek-Firewall", "ip_adresi": "172.16.1.254", "rol": "Firewall"}
+]

@@ -1,0 +1,18 @@
+{
+    "Sariyer_Kampus": [
+        {
+            "cihaz": "SRY-Core-Switch-01",
+            "port": "HundredGigE1/0/2",
+            "vlan": 99,
+            "hata": 142
+        }
+    ],
+    "Catalca_Depo": [
+        {
+            "cihaz": "CTL-Dist-Router-01",
+            "port": "GigabitEthernet0/0/1",
+            "vlan": 50,
+            "hata": 999
+        }
+    ]
+}
